@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactjs-magic-memory-game/static/css/main.55e9ed7b.chunk.css",
-    "main.js": "/reactjs-magic-memory-game/static/js/main.782432ef.chunk.js",
-    "main.js.map": "/reactjs-magic-memory-game/static/js/main.782432ef.chunk.js.map",
+    "main.js": "/reactjs-magic-memory-game/static/js/main.9b035022.chunk.js",
+    "main.js.map": "/reactjs-magic-memory-game/static/js/main.9b035022.chunk.js.map",
     "runtime-main.js": "/reactjs-magic-memory-game/static/js/runtime-main.bb3a0ca3.js",
     "runtime-main.js.map": "/reactjs-magic-memory-game/static/js/runtime-main.bb3a0ca3.js.map",
     "static/js/2.9e59ae1a.chunk.js": "/reactjs-magic-memory-game/static/js/2.9e59ae1a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bb3a0ca3.js",
     "static/js/2.9e59ae1a.chunk.js",
     "static/css/main.55e9ed7b.chunk.css",
-    "static/js/main.782432ef.chunk.js"
+    "static/js/main.9b035022.chunk.js"
   ]
 }
