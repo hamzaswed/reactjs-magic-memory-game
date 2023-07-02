@@ -5,28 +5,22 @@
 
   <h2 align="center">Magic Mamory Game Project</h2>
 
-  Fully responsive Game, built using HTML, CSS, and JavaScript(Reactjs).
+Fully responsive Game, built using HTML, CSS, and JavaScript(Reactjs).
 
-  <a href="https://hamzaswed.github.io/reactjs-magic-memory-game/"><strong>➥ Live Demo</strong></a>
+<a href="https://hamzaswed.github.io/reactjs-magic-memory-game/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Screeshots
 
 ![Portfolio Desktop Demo](./React-App.png "Desktop Demo")
-
 
 ## Author
 
 - [@hamzaswed](https://github.com/hamzaswed)
 
+## Used Technology
 
-### Contact
-
-If you want to contact with me you can reach me at [My Email](hamzaswed66@gmail.com).
-
-### License
-
-This project is **free to use** and does not contains any license.
+**Client:** HTML, CSS, JavaScript(Reactjs)
